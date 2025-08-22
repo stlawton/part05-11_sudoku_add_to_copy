@@ -1,6 +1,6 @@
-def copy_and_add(sudolu: list, row_no: int, column_no: int, number: int):
+def copy_and_add(sudoku: list, row_no: int, column_no: int, number: int):
   new_sudoku = []
-  for item in sudoku:
-    new_sudoku.append(item)
+  for row in sudoku:
+    new_sudoku.append(row[:])
   new_sudoku[row_no][column_no] = number
   return new_sudoku
