@@ -52,4 +52,4 @@ _ _ _  _ _ _  _ _ _
 _ _ _  _ _ _  _ _ _
 _ _ _  _ _ _  _ _ _
 ```
-Hint When dealing with nested lists you should be extra careful when copying. What all needs to be explicitly copied, and where do changes actually have an effect? The visualisation tool is a great help here, too, although the size of the sudoku grid will make the view less orderly than usual.
+Hint: When dealing with nested lists you should be extra careful when copying. What all needs to be explicitly copied, and where do changes actually have an effect? The visualisation tool is a great help here, too, although the size of the sudoku grid will make the view less orderly than usual.
